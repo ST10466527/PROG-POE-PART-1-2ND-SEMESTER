@@ -239,7 +239,7 @@ The video provides an overview of the work completed for the **Programming Portf
 
 ### Project Demonstration
 
-**[Watch the Project Demonstration on YouTube](https://www.youtube.com/)**
+**[Watch the Project Demonstration on YouTube](https://youtu.be/sP3nILbRrnQ)**
 
 > **Note:** Replace the YouTube link above with the link to your actual project demonstration video once it has been uploaded.
 
