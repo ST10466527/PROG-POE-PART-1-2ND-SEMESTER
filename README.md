@@ -226,7 +226,8 @@ Run the SQL script to create the database tables and insert the provided sample 
 
 The screenshot below shows the successful GitHub Actions workflow run validating the repository structure:
 
-![Uploading image.png…]()
+<img width="1917" height="966" alt="image" src="https://github.com/user-attachments/assets/c472f484-ef8a-40c4-9312-936785351b64" />
+
 
 
 
