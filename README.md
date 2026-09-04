@@ -226,7 +226,8 @@ Run the SQL script to create the database tables and insert the provided sample 
 
 The screenshot below shows the successful GitHub Actions workflow run validating the repository structure:
 
-![CI/CD Success](docs/cicd.png)
+![Uploading image.png…]()
+
 
 
 ## YouTube Video Demonstration
