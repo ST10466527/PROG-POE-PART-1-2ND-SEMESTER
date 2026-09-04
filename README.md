@@ -222,6 +222,12 @@ Run the SQL script to create the database tables and insert the provided sample 
 > **Note:** The SQL script uses T-SQL features such as `IDENTITY` and `NVARCHAR`, and is therefore intended for Microsoft SQL Server or a compatible SQL environment.
 
 ---
+## CI/CD Screenshot
+
+The screenshot below shows the successful GitHub Actions workflow run validating the repository structure:
+
+![CI/CD Success](docs/cicd.png)
+
 
 ## YouTube Video Demonstration
 
