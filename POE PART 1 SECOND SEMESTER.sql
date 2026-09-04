@@ -49,8 +49,8 @@ INSERT INTO Organiser (name, email, phone) VALUES
 ('Soweto Marathon Org', 'soweto@raceday.com', '0117654321');
 
 INSERT INTO Participant (name, email, dob, gender) VALUES
-('Busisiwe M', 'busisiwe@raceday.com', '2000-05-15', 'F'),
-('Thabo K', 'thabo@raceday.com', '1998-09-21', 'M');
+('Khazimla S', 'khazimla@raceday.com', '2004-02-26', 'F'),
+('Buhle P', 'buhle@raceday.com', '2005-04-02', 'F');
 
 INSERT INTO Event (organiser_id, name, date, location) VALUES
 (1, 'Cape Town Marathon', '2026-10-01', 'Cape Town'),
